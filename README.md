@@ -9,5 +9,5 @@
 - OS: CATALINA 10.15.5 
 
 ### Geekbench 5.1.1:
-- Single-Core Score: 841
-- Multi-Core Score : 2812
+- Single-Core Score : 841
+- Multi-Core Score  : 2812
